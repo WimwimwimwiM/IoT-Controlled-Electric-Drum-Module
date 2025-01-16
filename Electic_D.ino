@@ -1,7 +1,7 @@
-/*#define BLYNK_AUTH_TOKEN "JLxpwBmovEiKogt2vT5jLjeu2WqlFPkg"
-#define WIFI_SSID "wimwim"
-#define WIFI_PASS "12345678"
-#define BLYNK_TEMPLATE_ID "TMPL6ksIe6aJG"
+/*#define BLYNK_AUTH_TOKEN "yourAUTH_TOKEN"
+#define WIFI_SSID "yourWIFI_SSID"
+#define WIFI_PASS "yourWIFI_PASS"
+#define BLYNK_TEMPLATE_ID "yourTEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "project"*/
 
 #include <WiFi.h>
