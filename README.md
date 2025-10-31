@@ -1,4 +1,4 @@
-# Electric-dump-with-Blynk
+# IoT-Controlled Electric Drum Module
 
 ## Description
 Electric dump  by C++(Arduino) languages controll by Blynk IoT
