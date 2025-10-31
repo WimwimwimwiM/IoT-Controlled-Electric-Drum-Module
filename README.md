@@ -1,10 +1,10 @@
 # IoT-Controlled Electric Drum Module
 
 ## Description
-Electric dump  by C++(Arduino) languages controll by Blynk IoT
+Electric drum  by C++(Arduino) languages control by Blynk IoT
 
 ## Features
-- controll by mobile (blynk)
+- control by mobile (blynk)
 - Audio files from external sources can be used
 
 ## How to Use
